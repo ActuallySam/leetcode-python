@@ -1,29 +1,9 @@
-class Solution(object):
-    def containsDuplicate(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: bool
-        """
-        # Map
-        # mapper = {}
-        # for num in nums:
-        #     if not mapper.get(num):
-        #         mapper[num] = 1
-        #     else:
-        #         mapper[num] += 1
-        
-        # for val in mapper:
-        #     if mapper[val] > 1:
-        #         return True
-        
-        # return False
-
-        # Set
-        numset = set()
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        mapper = {}
         for num in nums:
-            if num in numset:
+            if num in mapper.keys():
                 return True
             else:
-                numset.add(num)
-        
+                mapper[num] = 1
         return False

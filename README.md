@@ -31,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ActuallySam/leetcode-python/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ActuallySam/leetcode-python/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 <!---LeetCode Topics End-->

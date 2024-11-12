@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/ActuallySam/leetcode-python/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ActuallySam/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ActuallySam/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ActuallySam/leetcode-python/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ActuallySam/leetcode-python/tree/master/0217-contains-duplicate) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ActuallySam/leetcode-python/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ActuallySam/leetcode-python/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+## Binary Search
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ActuallySam/leetcode-python/tree/master/2179-most-beautiful-item-for-each-query) |
 <!---LeetCode Topics End-->

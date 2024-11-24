@@ -1,9 +1,13 @@
-class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
-        mapper = {}
+class Solution(object):
+    def containsDuplicate(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        n = len(nums)
+        unique_set = set()
         for num in nums:
-            if num in mapper.keys():
+            if num in unique_set:
                 return True
-            else:
-                mapper[num] = 1
+            unique_set.add(num)
         return False

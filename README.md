@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ActuallySam/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ActuallySam/leetcode-python/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ActuallySam/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ActuallySam/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ActuallySam/leetcode-python/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ActuallySam/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ActuallySam/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ActuallySam/leetcode-python/tree/master/1046-max-consecutive-ones-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ActuallySam/leetcode-python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ActuallySam/leetcode-python/tree/master/2699-count-the-number-of-fair-pairs) |

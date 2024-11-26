@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ActuallySam/leetcode-python/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/ActuallySam/leetcode-python/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ActuallySam/leetcode-python/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ActuallySam/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/ActuallySam/leetcode-python/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |

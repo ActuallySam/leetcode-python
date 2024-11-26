@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ActuallySam/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ActuallySam/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ActuallySam/leetcode-python/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ActuallySam/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ActuallySam/leetcode-python/tree/master/0485-max-consecutive-ones) |
 | [1046-max-consecutive-ones-iii](https://github.com/ActuallySam/leetcode-python/tree/master/1046-max-consecutive-ones-iii) |
@@ -22,11 +23,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ActuallySam/leetcode-python/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ActuallySam/leetcode-python/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ActuallySam/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ActuallySam/leetcode-python/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ActuallySam/leetcode-python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ActuallySam/leetcode-python/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
@@ -75,4 +78,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/ActuallySam/leetcode-python/tree/master/0371-sum-of-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

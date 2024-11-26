@@ -8,5 +8,5 @@ class Solution(object):
         res = [0] * size
 
         for i in range(1, size):
-            res[i] = res[i >> 1] + (i & 1)
+            res[i] = res[i >> 1] + (i % 2)
         return res

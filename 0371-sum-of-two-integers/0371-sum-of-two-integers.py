@@ -5,4 +5,10 @@ class Solution(object):
         :type b: int
         :rtype: int
         """
-        return (a | b) + (a & b)
+        MASK = 0xFFFFFFFF
+        while b & MASK != 0:
+            carry = (a & b) << 1
+            a = a ^ b
+            b = carry
+        
+        return a & MASK if b > MASK else a

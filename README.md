@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ActuallySam/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ActuallySam/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ActuallySam/leetcode-python/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ActuallySam/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ActuallySam/leetcode-python/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ActuallySam/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/ActuallySam/leetcode-python/tree/master/1046-max-consecutive-ones-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ActuallySam/leetcode-python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ActuallySam/leetcode-python/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ActuallySam/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/ActuallySam/leetcode-python/tree/master/0338-counting-bits) |
 | [1250-longest-common-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/1250-longest-common-subsequence) |
 ## Math

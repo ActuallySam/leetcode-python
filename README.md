@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1250-longest-common-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/1250-longest-common-subsequence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ActuallySam/leetcode-python/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ActuallySam/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/ActuallySam/leetcode-python/tree/master/0338-counting-bits) |
+| [1250-longest-common-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |

@@ -4,14 +4,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        import bisect
         n = len(nums)
-        dp = [1] * (n + 1)
-        mx = -1
+        temp = []
+        max_len = 1
+        temp.append(nums[0])
+
         for i in range(n):
-            for prev in range(i):
-                if nums[prev] < nums[i]:
-                    dp[i] = max(dp[i], 1 + dp[prev])
-            
-            mx = max(mx, dp[i])
+            if nums[i] > temp[-1]:
+                temp.append(nums[i])
+                max_len += 1
+            else:
+                ind = bisect.bisect_left(temp, nums[i])
+                temp[ind] = nums[i]
         
-        return mx
+        return max_len

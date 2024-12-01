@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ActuallySam/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ActuallySam/leetcode-python/tree/master/0485-max-consecutive-ones) |
 | [1046-max-consecutive-ones-iii](https://github.com/ActuallySam/leetcode-python/tree/master/1046-max-consecutive-ones-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ActuallySam/leetcode-python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ActuallySam/leetcode-python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ActuallySam/leetcode-python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ActuallySam/leetcode-python/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -26,12 +27,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ActuallySam/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ActuallySam/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ActuallySam/leetcode-python/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ActuallySam/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/ActuallySam/leetcode-python/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ActuallySam/leetcode-python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ActuallySam/leetcode-python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ActuallySam/leetcode-python/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
@@ -50,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ActuallySam/leetcode-python/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/ActuallySam/leetcode-python/tree/master/0295-find-median-from-data-stream) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ActuallySam/leetcode-python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ActuallySam/leetcode-python/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
@@ -62,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ActuallySam/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/ActuallySam/leetcode-python/tree/master/1046-max-consecutive-ones-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ActuallySam/leetcode-python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ActuallySam/leetcode-python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ActuallySam/leetcode-python/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sliding Window

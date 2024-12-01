@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ActuallySam/leetcode-python/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ActuallySam/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ActuallySam/leetcode-python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ActuallySam/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ActuallySam/leetcode-python/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/ActuallySam/leetcode-python/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ActuallySam/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/ActuallySam/leetcode-python/tree/master/0338-counting-bits) |
@@ -153,4 +155,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ActuallySam/leetcode-python/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ActuallySam/leetcode-python/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

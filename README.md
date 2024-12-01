@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ActuallySam/leetcode-python/tree/master/0022-generate-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/1250-longest-common-subsequence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ActuallySam/leetcode-python/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Binary Search
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ActuallySam/leetcode-python/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ActuallySam/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/ActuallySam/leetcode-python/tree/master/0338-counting-bits) |
@@ -147,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ActuallySam/leetcode-python/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ActuallySam/leetcode-python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

@@ -5,9 +5,9 @@ class Solution(object):
         :type original: int
         :rtype: int
         """
-        n = len(nums)
-        for i in range(n):
-            if original in nums:
-                original *= 2
-        
+        mapper={}
+        for num in nums:
+            mapper[num] = 1
+        while original in mapper.keys():
+            original *= 2
         return original

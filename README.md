@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/ActuallySam/leetcode-python/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ActuallySam/leetcode-python/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ActuallySam/leetcode-python/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ActuallySam/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/ActuallySam/leetcode-python/tree/master/0338-counting-bits) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ActuallySam/leetcode-python/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/ActuallySam/leetcode-python/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
@@ -159,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ActuallySam/leetcode-python/tree/master/0055-jump-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ActuallySam/leetcode-python/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/ActuallySam/leetcode-python/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ActuallySam/leetcode-python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ActuallySam/leetcode-python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1917-maximum-average-pass-ratio](https://github.com/ActuallySam/leetcode-python/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/ActuallySam/leetcode-python/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ActuallySam/leetcode-python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ActuallySam/leetcode-python/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ActuallySam/leetcode-python/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
+| [1917-maximum-average-pass-ratio](https://github.com/ActuallySam/leetcode-python/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/ActuallySam/leetcode-python/tree/master/2164-two-best-non-overlapping-events) |
 | [2868-continuous-subarrays](https://github.com/ActuallySam/leetcode-python/tree/master/2868-continuous-subarrays) |
 ## Bucket Sort
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ActuallySam/leetcode-python/tree/master/0055-jump-game) |
+| [1917-maximum-average-pass-ratio](https://github.com/ActuallySam/leetcode-python/tree/master/1917-maximum-average-pass-ratio) |
 ## Combinatorics
 |  |
 | ------- |

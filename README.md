@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ActuallySam/leetcode-python/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ActuallySam/leetcode-python/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2868-continuous-subarrays](https://github.com/ActuallySam/leetcode-python/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ActuallySam/leetcode-python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/ActuallySam/leetcode-python/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/ActuallySam/leetcode-python/tree/master/0371-sum-of-two-integers) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ActuallySam/leetcode-python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/ActuallySam/leetcode-python/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/ActuallySam/leetcode-python/tree/master/2164-two-best-non-overlapping-events) |
 | [2868-continuous-subarrays](https://github.com/ActuallySam/leetcode-python/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ActuallySam/leetcode-python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ActuallySam/leetcode-python/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ActuallySam/leetcode-python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
 | ------- |

@@ -9,10 +9,11 @@ class Solution:
         while right < n:
             num_right = nums[right]
             if num_right in vis:
-                max_score = max(max_score, sum(vis))
+                max_score = max(max_score, curr_sum)
                 while num_right in vis:
-                    curr_sum -= nums[left]
-                    vis.remove(nums[left])
+                    num_left = nums[left]
+                    curr_sum -= num_left
+                    vis.remove(num_left)
                     left += 1
 
             curr_sum += num_right
@@ -20,4 +21,3 @@ class Solution:
             right += 1
             
         return max(max_score, curr_sum)
-        

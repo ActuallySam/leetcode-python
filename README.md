@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/ActuallySam/leetcode-python/tree/master/0338-counting-bits) |
 | [1250-longest-common-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/1250-longest-common-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/ActuallySam/leetcode-python/tree/master/2164-two-best-non-overlapping-events) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ActuallySam/leetcode-python/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ActuallySam/leetcode-python/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ActuallySam/leetcode-python/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ActuallySam/leetcode-python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ActuallySam/leetcode-python/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/ActuallySam/leetcode-python/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |

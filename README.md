@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ActuallySam/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ActuallySam/leetcode-python/tree/master/0485-max-consecutive-ones) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ActuallySam/leetcode-python/tree/master/0780-max-chunks-to-make-sorted) |
+| [1006-vowel-spellchecker](https://github.com/ActuallySam/leetcode-python/tree/master/1006-vowel-spellchecker) |
 | [1046-max-consecutive-ones-iii](https://github.com/ActuallySam/leetcode-python/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ActuallySam/leetcode-python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ActuallySam/leetcode-python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ActuallySam/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ActuallySam/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1006-vowel-spellchecker](https://github.com/ActuallySam/leetcode-python/tree/master/1006-vowel-spellchecker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ActuallySam/leetcode-python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/ActuallySam/leetcode-python/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ActuallySam/leetcode-python/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ActuallySam/leetcode-python/tree/master/0022-generate-parentheses) |
+| [1006-vowel-spellchecker](https://github.com/ActuallySam/leetcode-python/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/1250-longest-common-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ActuallySam/leetcode-python/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/ActuallySam/leetcode-python/tree/master/2887-sort-vowels-in-a-string) |

@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/ActuallySam/leetcode-python/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ActuallySam/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1006-vowel-spellchecker](https://github.com/ActuallySam/leetcode-python/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ActuallySam/leetcode-python/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ActuallySam/leetcode-python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/ActuallySam/leetcode-python/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ActuallySam/leetcode-python/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ActuallySam/leetcode-python/tree/master/0022-generate-parentheses) |
 | [1006-vowel-spellchecker](https://github.com/ActuallySam/leetcode-python/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/ActuallySam/leetcode-python/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ActuallySam/leetcode-python/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ActuallySam/leetcode-python/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/ActuallySam/leetcode-python/tree/master/2887-sort-vowels-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ActuallySam/leetcode-python/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |

@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/ActuallySam/leetcode-python/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ActuallySam/leetcode-python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ActuallySam/leetcode-python/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ActuallySam/leetcode-python/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ActuallySam/leetcode-python/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2868-continuous-subarrays](https://github.com/ActuallySam/leetcode-python/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ActuallySam/leetcode-python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/ActuallySam/leetcode-python/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/ActuallySam/leetcode-python/tree/master/0371-sum-of-two-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ActuallySam/leetcode-python/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ActuallySam/leetcode-python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3830-find-closest-person](https://github.com/ActuallySam/leetcode-python/tree/master/3830-find-closest-person) |
 ## Divide and Conquer
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/ActuallySam/leetcode-python/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ActuallySam/leetcode-python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ActuallySam/leetcode-python/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -252,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ActuallySam/leetcode-python/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ActuallySam/leetcode-python/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
